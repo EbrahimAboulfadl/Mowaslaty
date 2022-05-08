@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307239803433",
+    "project_id": "wasalny-bus",
+    "storage_bucket": "wasalny-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307239803433:android:2ea1c1f5495e278b829a38",
+        "android_client_info": {
+          "package_name": "com.example.wasalny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307239803433-o99mjoppma9l2s01ub6cu6fl25vgnmhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wasalny",
+            "certificate_hash": "24110c9ae0aaa51d2e8ec6b435c90cf66c1183fb"
+          }
+        },
+        {
+          "client_id": "307239803433-h5fs2jbpg97nel7r30l17t3tqfin5uii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jB4Z0bNm3k_kereY2v7R92-7eosHFrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307239803433-h5fs2jbpg97nel7r30l17t3tqfin5uii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
